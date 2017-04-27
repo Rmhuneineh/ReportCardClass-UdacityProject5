@@ -60,8 +60,6 @@ public class ReportCard {
         mBiologyMark = biologyMark;
         mGeographyMark = geographyMark;
         mHistoryMark = historyMark;
-
-
     }
 
     /**
